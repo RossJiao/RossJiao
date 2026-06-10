@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ross Jiao 👋
 
-<!--
-**RossJiao/RossJiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Third-year student studying Mathematics and Economics at NYU
+- 💼 Data Science Intern at EMR Technical Solutions (EMRTS)
+- 🌱 Currently learning Python, Bash, and Elixir
+- 📫 How to reach me: rossdingyanjiao@gmail.com
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Language |
+|---------|-------------|----------|
+| [State Capitals Project](https://github.com/RossJiao/state-capitals-project) | Collects all 50 US state capital addresses and retrieves GPS coordinates using a geocoding API | Python |
+| [4-Gallon Water Bucket Problem](https://github.com/RossJiao/gallon-bucket-project) | Solves the classic water jug problem using BFS algorithm in 7 steps | Python |
