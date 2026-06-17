@@ -12,3 +12,4 @@
 | [State Capitals Project](https://github.com/RossJiao/state-capitals-project) | Collects all 50 US state capital addresses and retrieves GPS coordinates using a geocoding API | Python |
 | [4-Gallon Water Bucket Problem](https://github.com/RossJiao/gallon-bucket-project) | Solves the classic water jug problem using BFS algorithm in 7 steps | Python |
 | [TABIND Scrabble Project](https://github.com/RossJiao/scrabble-project) | Finds all valid words that can be formed from the letters "tabind" using a system dictionary | Python |
+| [FizzBuzz Project](https://github.com/RossJiao/fizzbuzz-project) | Classic programming exercise that prints numbers 1-100 with Fizz, Buzz, and FizzBuzz substitutions | Python |
