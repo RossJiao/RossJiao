@@ -13,3 +13,4 @@
 | [4-Gallon Water Bucket Problem](https://github.com/RossJiao/gallon-bucket-project) | Solves the classic water jug problem using BFS algorithm in 7 steps | Python |
 | [TABIND Scrabble Project](https://github.com/RossJiao/scrabble-project) | Finds all valid words that can be formed from the letters "tabind" using a system dictionary | Python |
 | [FizzBuzz Project](https://github.com/RossJiao/fizzbuzz-project) | Classic programming exercise that prints numbers 1-100 with Fizz, Buzz, and FizzBuzz substitutions | Python |
+| [Provider Lookup Project](https://github.com/RossJiao/provider-lookup-project) | Searches healthcare providers using the official NPPES NPI Registry API | Python |
