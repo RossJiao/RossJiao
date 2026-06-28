@@ -14,3 +14,4 @@
 | [TABIND Scrabble Project](https://github.com/RossJiao/scrabble-project) | Finds all valid words that can be formed from the letters "tabind" using a system dictionary | Python |
 | [FizzBuzz Project](https://github.com/RossJiao/fizzbuzz-project) | Classic programming exercise that prints numbers 1-100 with Fizz, Buzz, and FizzBuzz substitutions | Python |
 | [Provider Lookup Project](https://github.com/RossJiao/provider-lookup-project) | Searches healthcare providers using the official NPPES NPI Registry API | Python |
+| [Bookstore Project](https://github.com/RossJiao/Bookstore-Project) | E-commerce platform with book search, order management, and email confirmation using SQLite | Python |
